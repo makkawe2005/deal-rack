@@ -36,22 +36,22 @@ SITES = [
     },
     {
         "store": "كارفور",
-        "url": "https://www.carrefourksa.com/mafsau/en/offers",
+        "url": "https://www.carrefourksa.com/mafsau/en/n/c/clp_carrefouroffers",
         "selector": None,
     },
     {
         "store": "أسواق العثيم",
-        "url": "https://www.othaimmarkets.com/en/offers",
+        "url": "https://www.othaimmarkets.com/offers",
         "selector": None,
     },
     {
         "store": "دانوب",
-        "url": "https://danube.sa/en/offers",
+        "url": "https://danube.sa/departments/promotions",
         "selector": None,
     },
     {
         "store": "لولو هايبرماركت",
-        "url": "https://saudi.lulumea.com/promotion-listing",
+        "url": "https://gcc.luluhypermarket.com/en-sa/deals",
         "selector": None,
     },
 ]
