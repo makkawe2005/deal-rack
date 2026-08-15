@@ -1,7 +1,218 @@
 {
-  "updated_at": "2026-08-15T07:04:03.157919+00:00",
+  "updated_at": "2026-08-15T07:29:05.473092+00:00",
   "stores": {
-    "بنده": [],
+    "بنده": [
+      {
+        "product": "بصل أحمر طازج",
+        "price": 1.67,
+        "original_price": 3.5,
+        "discount_pct": 52,
+        "category": "خضروات وفواكه"
+      },
+      {
+        "product": "خبز الشوكولاتة 5×70 جم",
+        "price": 15,
+        "original_price": 16.99,
+        "discount_pct": 12,
+        "category": "مخبوزات ومعجنات"
+      },
+      {
+        "product": "خبز الزبيب 4×110 جم",
+        "price": 15,
+        "original_price": 16.99,
+        "discount_pct": 12,
+        "category": "مخبوزات ومعجنات"
+      },
+      {
+        "product": "كيك إنجليزي بالفانيليا من ألوامارا 250 جم",
+        "price": 6.99,
+        "original_price": 8.99,
+        "discount_pct": 22,
+        "category": "حلويات وكيك"
+      },
+      {
+        "product": "كيك إنجليزي بالشوكولاتة من ألوامارا 250 جم",
+        "price": 6.99,
+        "original_price": 8.99,
+        "discount_pct": 22,
+        "category": "حلويات وكيك"
+      },
+      {
+        "product": "كيك إنجليزي بالفانيليا والجوز من ألوامارا 250 جم",
+        "price": 6.99,
+        "original_price": 8.99,
+        "discount_pct": 22,
+        "category": "حلويات وكيك"
+      },
+      {
+        "product": "كيك إنجليزي ماربل من ألوامارا 250 جم",
+        "price": 6.99,
+        "original_price": 8.99,
+        "discount_pct": 22,
+        "category": "حلويات وكيك"
+      },
+      {
+        "product": "تونة ريوماري باللحم الخفيف بزيت الزيتون 3+1 × 80 جم",
+        "price": 20,
+        "original_price": 37.99,
+        "discount_pct": 47,
+        "category": "معلبات وعلب"
+      },
+      {
+        "product": "حفاضات بامبي الشهرية مقاس 3 وسط 252 قطعة",
+        "price": 190,
+        "original_price": 219.99,
+        "discount_pct": 14,
+        "category": "حفاضات"
+      },
+      {
+        "product": "حفاضات بامبي الشهرية مقاس 4 كبير 222 قطعة",
+        "price": 190,
+        "original_price": 241.5,
+        "discount_pct": 21,
+        "category": "حفاضات"
+      },
+      {
+        "product": "حفاضات بامبي الشهرية مقاس 5 كبير جداً 198 قطعة",
+        "price": 190,
+        "original_price": 253.99,
+        "discount_pct": 25,
+        "category": "حفاضات"
+      },
+      {
+        "product": "حفاضات بامبي الشهرية مقاس 6 كبير جداً XX 138 قطعة",
+        "price": 190,
+        "original_price": 265.5,
+        "discount_pct": 28,
+        "category": "حفاضات"
+      },
+      {
+        "product": "حفاضات بامبي الشهرية مقاس 4+ كبير 210 قطعة",
+        "price": 190,
+        "original_price": 236.99,
+        "discount_pct": 20,
+        "category": "حفاضات"
+      },
+      {
+        "product": "كريم بوندز برايت بيوتي SPF30 50 جم",
+        "price": 18.5,
+        "original_price": 36.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "سيروم بوندز برايت بيوتي 30 جم",
+        "price": 28.5,
+        "original_price": 56.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "تونر لوريال جليكوليك برايت 128 مل",
+        "price": 46.15,
+        "original_price": 76.99,
+        "discount_pct": 40,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم ليلي بوندز برايت بيوتي 50 جم",
+        "price": 18.5,
+        "original_price": 36.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم نيتروجينا ريتينول بوست النهاري SPF15 50 مل",
+        "price": 21.99,
+        "original_price": 66.99,
+        "discount_pct": 67,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "غسول بشرة بوندز فلولس راديانس 100 مل",
+        "price": 20,
+        "original_price": 39.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم لوريال باريس جليكوليك برايت الليلي 50 مل",
+        "price": 40.15,
+        "original_price": 66.99,
+        "discount_pct": 40,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم نهاري بوندز فلولس راديانس ديرما SPF 50 مل",
+        "price": 46.5,
+        "original_price": 92.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم نهاري بوندز آج ميراكل ويب 50 جم",
+        "price": 56,
+        "original_price": 111.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "كريم ليلي بوندز ديرما 50 مل",
+        "price": 46.5,
+        "original_price": 92.99,
+        "discount_pct": 50,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "سيروم لوريال باريس جليكوليك برايت 30 مل",
+        "price": 43.15,
+        "original_price": 71.99,
+        "discount_pct": 40,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "سائل واقٍ من الشمس لوريال باريس جليكوليك برايت 50 مل",
+        "price": 32.99,
+        "original_price": 54.99,
+        "discount_pct": 40,
+        "category": "العناية بالبشرة"
+      },
+      {
+        "product": "شامبو ألترا دوكس بماء الأرز 400 مل",
+        "price": 10,
+        "original_price": 14.95,
+        "discount_pct": 33,
+        "category": "العناية بالشعر"
+      },
+      {
+        "product": "شامبو ألترا دوكس بزيت الأفوكادو والشيا 400 مل",
+        "price": 10,
+        "original_price": 14.95,
+        "discount_pct": 33,
+        "category": "العناية بالشعر"
+      },
+      {
+        "product": "شامبو ألترا دوكس بالأفوكادو وزبدة الشيا 1000 مل",
+        "price": 25,
+        "original_price": 29.99,
+        "discount_pct": 17,
+        "category": "العناية بالشعر"
+      },
+      {
+        "product": "شامبو دوف إنتنسيف ريبير 1 لتر",
+        "price": 25,
+        "original_price": 40.99,
+        "discount_pct": 39,
+        "category": "العناية بالشعر"
+      },
+      {
+        "product": "بلسم ألترا دوكس بماء الأرز 360 مل",
+        "price": 10,
+        "original_price": 14.95,
+        "discount_pct": 33,
+        "category": "العناية بالشعر"
+      }
+    ],
     "كارفور": [],
     "أسواق العثيم": [],
     "دانوب": [],
