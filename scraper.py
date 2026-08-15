@@ -31,7 +31,7 @@ client = Anthropic()
 SITES = [
     {
         "store": "بنده",
-        "url": "https://panda.sa/en/plp?category_id=830&deals=1",
+        "url": "https://panda.sa/en/plp?collection=discounted&promo_type=1",
         "selector": None,
     },
     {
