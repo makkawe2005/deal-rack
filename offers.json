@@ -1,27 +1,10 @@
 {
-  "updated_at": "2026-08-15T08:00:00+03:00",
+  "updated_at": "2026-08-15T06:51:30.847848+00:00",
   "stores": {
-    "بنده": [
-      {"product": "حليب المراعي طازج كامل الدسم 1 لتر", "price": 6.5, "original_price": 8.5, "discount_pct": 24, "category": "ألبان"},
-      {"product": "قطع دجاج ناجتس الكبير 750 جم", "price": 14.0, "original_price": 19.5, "discount_pct": 28, "category": "مجمدات"},
-      {"product": "نسكافيه جولد 200 جم", "price": 22.0, "original_price": 29.0, "discount_pct": 24, "category": "مشروبات"}
-    ],
-    "كارفور": [
-      {"product": "دجاجة سدية كاملة 1 كجم", "price": 12.9, "original_price": 17.9, "discount_pct": 28, "category": "لحوم ودواجن"},
-      {"product": "زبدة لورباك 200 جم", "price": 15.5, "original_price": 21.0, "discount_pct": 26, "category": "ألبان"},
-      {"product": "شامبو لوريال 600 مل", "price": 18.0, "original_price": 27.0, "discount_pct": 33, "category": "العناية الشخصية"}
-    ],
-    "أسواق العثيم": [
-      {"product": "أرز بسمتي 5 كجم", "price": 34.9, "original_price": 44.9, "discount_pct": 22, "category": "حبوب"},
-      {"product": "زيت زيتون بنده 1 لتر", "price": 24.0, "original_price": 32.0, "discount_pct": 25, "category": "بقالة"}
-    ],
-    "دانوب": [
-      {"product": "مياه العين 200 مل (٢٤ عبوة)", "price": 9.0, "original_price": 13.0, "discount_pct": 31, "category": "مشروبات"},
-      {"product": "شرائح جبن كرافت 500 جم", "price": 16.5, "original_price": 22.0, "discount_pct": 25, "category": "ألبان"}
-    ],
-    "لولو هايبرماركت": [
-      {"product": "دوريتوس عبوة عائلية 3×180 جم", "price": 11.0, "original_price": 16.5, "discount_pct": 33, "category": "وجبات خفيفة"},
-      {"product": "صابون أطباق فيري 900 مل", "price": 8.5, "original_price": 12.0, "discount_pct": 29, "category": "مستلزمات منزلية"}
-    ]
+    "بنده": [],
+    "كارفور": [],
+    "أسواق العثيم": [],
+    "دانوب": [],
+    "لولو هايبرماركت": []
   }
 }
